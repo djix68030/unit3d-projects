@@ -2,7 +2,7 @@
 
 - I’m currently working at [Videlio](https://www.videlio.com)
 - I'm an Presales Engineer Unified Communications
-- All of my projects are available at [Hackaday]([https://hackaday.io/pages/1344040]and here on Github
+- All of my projects are available at [Hackaday]([https://hackaday.io/pages/1344040])and here on Github
 
 
 ### Contacts
